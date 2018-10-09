@@ -18,6 +18,14 @@ git config --global merge.tool vimdiff
 git config --list
 ```
 
+问题总结：
+
+1. git add 多个文件夹，多个文件
+```
+git add  foldername1/ foldername2/
+git add  fielname1  filename2
+git add  *.type
+```
 
 
 
