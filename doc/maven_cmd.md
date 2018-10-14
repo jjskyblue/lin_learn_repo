@@ -18,6 +18,6 @@ mvn archetype:generate -DgroupId=com.lin.maven -DartifactId=myWebApp -Darchetype
 
 3. 创建maven项目
 
-![第一步](doc_img/eclipse_maven_01.png)
+![第一步](./doc_img/eclipse_maven_01.png)
 
-![第二步](doc_img/eclipse_maven_02.png)
+![第二步](./doc_img/eclipse_maven_02.png)
