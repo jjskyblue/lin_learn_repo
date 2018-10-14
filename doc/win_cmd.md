@@ -1,4 +1,9 @@
 #win doc 常用命令
+
+1. cmd要获取管理员权限。
+
+[cmd.exe](  C:\Windows\WinSxS\wow64_microsoft-windows-commandprompt_31bf3856ad364e35_10.0.10586.0_none_21e70967f9147e9b)
+
 ##1 创建，删除文件夹
 ```
 md [filefolderName]
